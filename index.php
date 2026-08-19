@@ -5,7 +5,8 @@
 </head>
 <body>
 
-    <h1>Welcome to my Professional website</h1>
+    <h1>Welcome to my Wonderful website</h1>
+
     <p>This is my first Git practice project.</p>
     <a href="login.php">Login</a>
 </body>
